@@ -1,0 +1,2 @@
+# NovelCore
+writing app demo
